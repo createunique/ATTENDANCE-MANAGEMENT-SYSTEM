@@ -9,7 +9,7 @@ The Attendance System project aims to simplify the process of managing student a
 3. **Importing the Database:** After setting up the local server, import the provided SQL database file (`database.sql`) into your MySQL database. This file contains the necessary tables and data structures for storing student and attendance records.
 4. **Configuring Database Credentials:** Open the `database.php` and `update_attendance.php` files and update the database connection credentials to match your local environment. This step ensures that the PHP scripts can connect to your MySQL database successfully.
 5. **Starting the Local Server:** Start your local server environment and navigate to the project directory using your web browser. Ensure that the project files are accessible via the server's URL.
-6. **Accessing the System:** Once the server is running, access the Attendance System through your web browser by entering the appropriate URL. You should be directed to the login page, where you can authenticate yourself to access the user dashboard.
+6. **Accessing the System:** Once the server is running, access the Attendance System through your web browser by entering the appropriate URL. You should be directed to the login page, where you can authenticate yourself to access the user dashboard. (e.g., `http://localhost/attendance_system`)
 
 ## Working Mechanism
 The Attendance System operates on a simple yet effective mechanism:
