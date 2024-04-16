@@ -1,4 +1,4 @@
-# Attendance System
+# Student Attendance System
 
 ## Overview
 This project is an Attendance System designed to manage student attendance for different sections. It allows users to view and update attendance records for students in different sections.
