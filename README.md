@@ -30,9 +30,7 @@ The Attendance System leverages various technologies and features:
 - **MySQL:** Relational database management system for storing and querying student and attendance records.
 
 ### Libraries
-- **XLSX:** XLSX is a library for processing Excel files
 - **jQuery:**  jQuery is a JavaScript library for simplifying frontend interactions and manipulation of HTML documents.
-- **AJAX:** Asynchronous requests to update attendance records without refreshing the entire page, enhancing user experience.
 - **Sessions:** User authentication and session management to control access to dashboard features based on login status.
 - **Password Hashing:** Secure storage and verification of user passwords using bcrypt hashing algorithm, ensuring data privacy and security.
 
